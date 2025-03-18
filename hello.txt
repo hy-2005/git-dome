@@ -5,7 +5,7 @@ hot-fix
 111草泥马黎世深
 
 
-何炬耀是傻逼
+何炬耀是傻逼（好评）
 #include "bits/stdc++.h"
 using namespace std;
 int main(){
