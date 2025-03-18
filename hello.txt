@@ -3,3 +3,11 @@ hello atguigu! hello git!22
 hello  hjy草泥马 333
 hot-fix
 111草泥马黎世深
+
+
+何炬耀是傻逼
+#include "bits/stdc++.h"
+using namespace std;
+int main(){
+	return 0;
+}
